@@ -1,3 +1,3 @@
 # dummy
 ## Utilidad
-* Este es un proyecto para hacer pruebas con git.
+* Éste es un proyecto para hacer pruebas con git.
